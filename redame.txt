@@ -7,9 +7,9 @@ hellow world ,welcome to my world.
    git log --pretty=oneline  短显示
 5、git reset --hard HEAD^ 回退到上一个版本
    git reset --hard commitID
-查看分支：git branch
-创建分支：git branch <name>
-切换分支：git checkout <name>
-创建+切换分支：git checkout -b <name>
-合并某分支到当前分支：git merge <name>
-删除分支：git branch -d <name>
+6、git branch  查看分支
+7、git branch <name> 创建分支
+8、git checkout <name> 进入分支
+9、git checkout -b <name> 创建并进入分支
+10、git merge <name> 合并分支
+11、git branch -d <name> 删除分支
