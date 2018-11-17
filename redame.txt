@@ -15,3 +15,7 @@ hellow world ,welcome to my world.
 11、git branch -d <name> 删除分支
 12、当同一个文件相同的地方被不同的分支修改后进行合并就会产生冲突。必须要手动解决后才能继续合并
 13 分支管理
+14、git remote -v 查看远程库信息
+15、git push origin <branch-name> 
+16、git pull 拉去更新
+
