@@ -14,3 +14,4 @@ hellow world ,welcome to my world.
 10、git merge <name> 合并分支
 11、git branch -d <name> 删除分支
 12、当同一个文件相同的地方被不同的分支修改后进行合并就会产生冲突。必须要手动解决后才能继续合并
+13 分支管理
