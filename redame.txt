@@ -1,1 +1,10 @@
 hellow world ,welcome to my world.
+###下面是Git的学习笔记##########
+1、git init  初始化一个版本库
+2、git add index  把文件加入到暂存区
+3、git commit -m "描述" 把文件提交到仓库
+4、git log  显示提交日志
+   git log --pretty=oneline  短显示
+5、git reset --hard HEAD^ 回退到上一个版本
+   git reset --hard commitID
+
